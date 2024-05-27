@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 'npm install -g json-server'
 JSON-SERVER 설치
 
-### 'json-server —watch db.json'
+### 'json-server --watch db.json'
 db.json을 갖는 가상의 json 서버 실행
 
 ### `npm run build`

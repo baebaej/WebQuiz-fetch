@@ -7,10 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 아래 순서대로 스크립트를 입력하여 실행할 수 있습니다.
 
 ### 'npm install -g json-server'
-JSON-SERVER 설치
+(필요한 경우)JSON-SERVER 설치
 
 ### 'json-server --watch db.json'
 db.json을 갖는 가상의 json 서버 실행
+
+### 'npm install'
+(최초 1회)node modules 설치
 
 ### `npm run build`
 
